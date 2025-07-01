@@ -1,0 +1,4 @@
+this is a new text file
+hopefully i learn more about git branches and stuff
+ctrl + d = save
+i use cat
