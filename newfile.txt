@@ -1,0 +1,6 @@
+hello this is another txt file
+i wonder if new branches start with the main branch
+i also wonder if i accidently made this branch off the the second_branch
+and the second_branch off of the cool_branch
+oops if i did
+might fix that on fifth branch
