@@ -1,1 +1,9 @@
 hello world
+hello world
+did this update the change cuz i for some reason used cat
+goodbye nowjust looked at file in the file explorer thingy
+and it turns out
+that this actually adds more works onto coolmans.txt
+instead of overwriting it
+i guess it does overwrite it technically probably
+but it doesn't delete the past thingies i added
