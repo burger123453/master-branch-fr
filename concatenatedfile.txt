@@ -1,0 +1,8 @@
+hello world
+i think this is the fifth branch or sixth or something like that
+most likely the fifth txt file i made though
+im gonna try merging a new branch with the main branch
+like i searched up merging on google
+and it said, "git checkout <target> git merge <source>"
+and then fifth branch will probably disappear maybe
+dis a pear hahahahahaha
